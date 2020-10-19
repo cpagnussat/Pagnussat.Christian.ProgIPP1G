@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1602805258 source:c:\codeblocks\practicaparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1602805209 c:\codeblocks\practicaparcial\funciones.h
+
+1602806510 source:c:\codeblocks\practicaparcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
