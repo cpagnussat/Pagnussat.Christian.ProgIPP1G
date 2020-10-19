@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1603145911 source:c:\codeblocks\pruebateorica\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1603146388 c:\codeblocks\pruebateorica\funciones.h
+
+1603146372 source:c:\codeblocks\pruebateorica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
